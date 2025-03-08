@@ -31,5 +31,5 @@ export default defineNuxtConfig({
     exposeConfig: false,
     viewer: true,
   },
-  modules: ["@nuxtjs/tailwindcss"],
+  modules: ["@nuxtjs/tailwindcss", "nuxt-clarity-analytics"],
 })
