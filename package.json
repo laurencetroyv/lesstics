@@ -10,7 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "nuxt": "^3.16.0",
+    "nuxt": "^4.0.0",
     "nuxt-clarity-analytics": "0.0.9",
     "vue": "latest",
     "vue-router": "latest"
